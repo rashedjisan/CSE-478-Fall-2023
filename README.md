@@ -12,7 +12,7 @@ Student ID: 19202103149
 Intake: 44
 
 
-Section:03 
+Section: 03 
 
 
 Course Teacher: Khan Md. Hasib 
